@@ -109,8 +109,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\css\3dcarousel.css" />
+    <Content Include="Content\js\3dcarousel.js" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
+    <Content Include="Views\Home\gallery.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
